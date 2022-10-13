@@ -1,2 +1,6 @@
 this is an important file
 
+here is a new line
+
+and another new line
+
